@@ -1,3 +1,1 @@
-This is my main file.
-this is my branch file
-I am simple adding text to it.
+Changing everything in the file.
